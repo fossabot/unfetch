@@ -2,6 +2,7 @@
   <img src="https://i.imgur.com/JaXEFNp.png" width="300" height="300" alt="unfetch">
   <br>
   <a href="https://www.npmjs.org/package/unfetch"><img src="https://img.shields.io/npm/v/unfetch.svg?style=flat" alt="npm"></a> <a href="https://travis-ci.org/developit/unfetch"><img src="https://travis-ci.org/developit/unfetch.svg?branch=master" alt="travis"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fgeorgiemathews%2Funfetch?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeorgiemathews%2Funfetch.svg?type=shield"/></a>
 </p>
 
 # unfetch
@@ -235,3 +236,6 @@ Pull requests are the greatest contributions, so be sure they are focused in sco
 ## License
 
 [MIT License](LICENSE.md) © [Jason Miller](https://jasonformat.com/)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeorgiemathews%2Funfetch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeorgiemathews%2Funfetch?ref=badge_large)
